@@ -1,0 +1,53 @@
+#div1{
+    width: 100vh;
+    height: 150vh;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 3vh;
+    background-color: white;
+    background-color: rgb(228, 157, 228);
+}
+#h11{
+text-align: center;
+}
+#p1{
+text-align: center;
+}
+#email{
+width: 80vh;
+height: 7vh;
+border: 1px solid black;
+}
+#name{
+    width: 80vh;
+    height: 7vh;
+    border: 1px solid black;
+}
+#age{
+    width: 80vh;
+    height: 7vh;
+    border: 1px solid black;
+}
+#dropdown{
+    width: 80vh;
+    height: 7vh;
+    border: 1px solid black;
+    margin-top: 3vh;
+}
+#lastext{
+    width: 80vh;
+    height: 28vh;
+}
+#submit{
+    margin-left: 40%;
+    width: ;
+    height: ;
+    border-radius: ;
+    font-size: ;
+    font-family: ;
+    background-color: ;
+    border: ;
+}
+#submit:hover{
+
+}
